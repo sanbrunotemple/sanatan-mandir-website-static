@@ -1,0 +1,871 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sanatan Mandir San Bruno//Calendar 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Shree Sanatan Mandir San Bruno 2026
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:mandir2026-0@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Ganesh Pooja - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-1@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Purnima (Magh Paush) - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-2@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-3@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:Sastila Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-4@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Makar Sankranti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-5@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Maasik Shivratri - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-6@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:Amavasya - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-7@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Basant Panchami - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-8@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:Jaya Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-9@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Purnima (Magh Snan) - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-10@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-11@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Janaki Jayanti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-12@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Kumbh Sankranti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-13@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Vijay Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-14@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:Maha Shivratri - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-15@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Amavasya - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-16@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-17@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Amalaki Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-18@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Holika Dahan - Sanatan Mandir San Bruno
+DESCRIPTION:6:00 PM - 8:31 PM | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-19@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Chandra Grahan - Sanatan Mandir San Bruno
+DESCRIPTION:1:51 AM - 5:16 AM (Sutak: 3:09 PM - 5:16 AM) | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-20@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Holi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-21@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-22@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:Meen Sankranti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-23@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:Papmochni Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-24@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:Amavasya - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-25@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Ganesh Chaturti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-26@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Shree Ram Naumi Janam Utsav - Sanatan Mandir San Bruno
+DESCRIPTION:11:58 AM - 2:26 PM | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-27@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:Kaamdha Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-28@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Purnima / Hanuman Jayanti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-29@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-30@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Varuthani Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-31@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Amavasya - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-32@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Vaishaak Shukal Paksha Pra. - Sanatan Mandir San Bruno
+DESCRIPTION:Name as printed - verify full form | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-33@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Akshay Tritia - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-34@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Sita Navami - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-35@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Mohini Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-36@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Bhagwan Narshima Avatar - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-37@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Purnima Vrat (Vaishaak Snaan) - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-38@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-39@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Appra Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Printed as 'Appra' - likely Apara Ekadashi | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-40@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Maasik Shivratri - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-41@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Amavasya / Vat Savitri Vrat - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-42@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Ganga Dashera - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-43@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Padmini Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-44@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Pradosh Vrat - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-45@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Purnima - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-46@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-47@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Parama Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-48@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Amavasya Jyestha (Adhika Krishna Samapt) - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-49@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Nirjala Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-50@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Purnima / Vat Savitri Vrat - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-51@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-52@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Yogini Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-53@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Somwati - Sanatan Mandir San Bruno
+DESCRIPTION:As printed - likely Somwati Amavasya | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-54@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Jagannath Rath Yatra - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-55@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Kark Sankranti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-56@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Dev Shayani Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-57@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Guru Purnima - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-58@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Sharwan Shomwar Begin - Sanatan Mandir San Bruno
+DESCRIPTION:6:30 PM - 8:00 PM | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-59@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-60@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Kamika Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-61@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Amavasya - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-62@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Naag Panchami - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-63@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Goswami Tulsi Das Jayanti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-64@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Putra Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-65@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Sharwan Shomwar Ends - Sanatan Mandir San Bruno
+DESCRIPTION:6:30 PM - 8:00 PM | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-66@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Purnima - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-67@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Raksha Bandhan - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-68@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Krishna Janmashtami - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-69@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-70@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Krishna Ashtami - Sanatan Mandir San Bruno
+DESCRIPTION:12:43 AM - 1:28 AM on 4th | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-71@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:Aja Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-72@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Ganesh Chauturthi Utsav - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-73@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Rishi Panchami - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-74@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Radha Aashtami - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-75@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Parsva Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-76@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Ganesh Visarjan - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-77@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Purnima Shraad - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-78@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Pitra Pakch Begins - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-79@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-80@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Indira Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-81@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Pitra Paksh Ends - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-82@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Navratri Starts - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-83@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Durga Ashtami - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-84@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Maha Navmi / Saraswati Pooja - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-85@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Vijya Dashmi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-86@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Paapaan Kushan Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Name as printed - verify spelling | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-87@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Sharadh Purnima - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-88@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Karwa Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-89@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Rama Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-90@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Dhan Teras - Sanatan Mandir San Bruno
+DESCRIPTION:5:27 PM - 7:16 PM | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-91@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Hanuman Jayanti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-92@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Yama Deepam - Sanatan Mandir San Bruno
+DESCRIPTION:5:00 PM - 7:44 PM | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-93@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Amavasya / Dipawali Laxmi Pooja - Sanatan Mandir San Bruno
+DESCRIPTION:5:19 PM - 7:09 PM | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-94@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Anakutt Govardhan Pooja - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-95@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Bhaiya Duj - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-96@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Prabodhini Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-97@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Tulsi Vivah (Dwadashi Tithi) - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-98@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Purnima / Nanak Jayanti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-99@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-100@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Kaal Bhairav Ashtami - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-101@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Utpathi Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-102@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Amavasya - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-103@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Geeta Jayanti - Sanatan Mandir San Bruno
+DESCRIPTION:Grouped with Moksha Ekadashi on poster - verify | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-104@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Mokshe Ekadashi - Sanatan Mandir San Bruno
+DESCRIPTION:Printed as 'Mokshe' - likely Moksha Ekadashi | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-105@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Purnima - Sanatan Mandir San Bruno
+DESCRIPTION:Grouped with Shree Dutt Jayanti on poster - verify | Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-106@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Shree Dutt Jayanti - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+BEGIN:VEVENT
+UID:mandir2026-107@sanatanmandirsanbruno
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Ganesh Chauth - Sanatan Mandir San Bruno
+DESCRIPTION:Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066 - (650) 794-1294
+LOCATION:205 Angus Ave.\, W. San Bruno\, CA 94066
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,758 @@
+[
+  {
+    "event": "Ganesh Pooja",
+    "date": "2026-01-01",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima (Magh Paush)",
+    "date": "2026-01-02",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-01-05",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Sastila Ekadashi",
+    "date": "2026-01-13",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Makar Sankranti",
+    "date": "2026-01-14",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Maasik Shivratri",
+    "date": "2026-01-16",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya",
+    "date": "2026-01-18",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Basant Panchami",
+    "date": "2026-01-23",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Jaya Ekadashi",
+    "date": "2026-01-28",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima (Magh Snan)",
+    "date": "2026-02-01",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-02-04",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Janaki Jayanti",
+    "date": "2026-02-09",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Kumbh Sankranti",
+    "date": "2026-02-12",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Vijay Ekadashi",
+    "date": "2026-02-12",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Maha Shivratri",
+    "date": "2026-02-15",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya",
+    "date": "2026-02-16",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-02-20",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amalaki Ekadashi",
+    "date": "2026-02-27",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Holika Dahan",
+    "date": "2026-03-02",
+    "weekday": "Monday",
+    "time_or_note": "6:00 PM - 8:31 PM",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Chandra Grahan",
+    "date": "2026-03-03",
+    "weekday": "Tuesday",
+    "time_or_note": "1:51 AM - 5:16 AM (Sutak: 3:09 PM - 5:16 AM)",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Holi",
+    "date": "2026-03-03",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-03-06",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Meen Sankranti",
+    "date": "2026-03-14",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Papmochni Ekadashi",
+    "date": "2026-03-14",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya",
+    "date": "2026-03-18",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chaturti",
+    "date": "2026-03-21",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Shree Ram Naumi Janam Utsav",
+    "date": "2026-03-26",
+    "weekday": "Thursday",
+    "time_or_note": "11:58 AM - 2:26 PM",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Kaamdha Ekadashi",
+    "date": "2026-03-28",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima / Hanuman Jayanti",
+    "date": "2026-04-01",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-04-05",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Varuthani Ekadashi",
+    "date": "2026-04-13",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya",
+    "date": "2026-04-16",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Vaishaak Shukal Paksha Pra.",
+    "date": "2026-04-17",
+    "weekday": "Friday",
+    "time_or_note": "Name as printed - verify full form",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Akshay Tritia",
+    "date": "2026-04-19",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Sita Navami",
+    "date": "2026-04-24",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Mohini Ekadashi",
+    "date": "2026-04-26",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Bhagwan Narshima Avatar",
+    "date": "2026-04-29",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima Vrat (Vaishaak Snaan)",
+    "date": "2026-05-01",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-05-04",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Appra Ekadashi",
+    "date": "2026-05-12",
+    "weekday": "Tuesday",
+    "time_or_note": "Printed as 'Appra' - likely Apara Ekadashi",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Maasik Shivratri",
+    "date": "2026-05-14",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya / Vat Savitri Vrat",
+    "date": "2026-05-16",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganga Dashera",
+    "date": "2026-05-25",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Padmini Ekadashi",
+    "date": "2026-05-26",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Pradosh Vrat",
+    "date": "2026-05-28",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima",
+    "date": "2026-05-30",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-06-03",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Parama Ekadashi",
+    "date": "2026-06-11",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya Jyestha (Adhika Krishna Samapt)",
+    "date": "2026-06-14",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Nirjala Ekadashi",
+    "date": "2026-06-25",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima / Vat Savitri Vrat",
+    "date": "2026-06-29",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-07-03",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Yogini Ekadashi",
+    "date": "2026-07-10",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Somwati",
+    "date": "2026-07-13",
+    "weekday": "Monday",
+    "time_or_note": "As printed - likely Somwati Amavasya",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Jagannath Rath Yatra",
+    "date": "2026-07-15",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Kark Sankranti",
+    "date": "2026-07-16",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Dev Shayani Ekadashi",
+    "date": "2026-07-24",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Guru Purnima",
+    "date": "2026-07-28",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Sharwan Shomwar Begin",
+    "date": "2026-07-30",
+    "weekday": "Thursday",
+    "time_or_note": "6:30 PM - 8:00 PM",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-08-01",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Kamika Ekadashi",
+    "date": "2026-08-08",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya",
+    "date": "2026-08-12",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Naag Panchami",
+    "date": "2026-08-16",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Goswami Tulsi Das Jayanti",
+    "date": "2026-08-19",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Putra Ekadashi",
+    "date": "2026-08-23",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Sharwan Shomwar Ends",
+    "date": "2026-08-24",
+    "weekday": "Monday",
+    "time_or_note": "6:30 PM - 8:00 PM",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima",
+    "date": "2026-08-27",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Raksha Bandhan",
+    "date": "2026-08-27",
+    "weekday": "Thursday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Krishna Janmashtami",
+    "date": "2026-08-28",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-08-30",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Krishna Ashtami",
+    "date": "2026-09-03",
+    "weekday": "Thursday",
+    "time_or_note": "12:43 AM - 1:28 AM on 4th",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Aja Ekadashi",
+    "date": "2026-09-06",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauturthi Utsav",
+    "date": "2026-09-14",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Rishi Panchami",
+    "date": "2026-09-15",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Radha Aashtami",
+    "date": "2026-09-18",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Parsva Ekadashi",
+    "date": "2026-09-22",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Visarjan",
+    "date": "2026-09-25",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima Shraad",
+    "date": "2026-09-25",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Pitra Pakch Begins",
+    "date": "2026-09-26",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-09-29",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Indira Ekadashi",
+    "date": "2026-10-06",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Pitra Paksh Ends",
+    "date": "2026-10-09",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Navratri Starts",
+    "date": "2026-10-11",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Durga Ashtami",
+    "date": "2026-10-18",
+    "weekday": "Sunday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Maha Navmi / Saraswati Pooja",
+    "date": "2026-10-19",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Vijya Dashmi",
+    "date": "2026-10-20",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Paapaan Kushan Ekadashi",
+    "date": "2026-10-21",
+    "weekday": "Wednesday",
+    "time_or_note": "Name as printed - verify spelling",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Sharadh Purnima",
+    "date": "2026-10-24",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Karwa Chauth",
+    "date": "2026-10-28",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Rama Ekadashi",
+    "date": "2026-11-04",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Dhan Teras",
+    "date": "2026-11-06",
+    "weekday": "Friday",
+    "time_or_note": "5:27 PM - 7:16 PM",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Hanuman Jayanti",
+    "date": "2026-11-06",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Yama Deepam",
+    "date": "2026-11-06",
+    "weekday": "Friday",
+    "time_or_note": "5:00 PM - 7:44 PM",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya / Dipawali Laxmi Pooja",
+    "date": "2026-11-08",
+    "weekday": "Sunday",
+    "time_or_note": "5:19 PM - 7:09 PM",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Anakutt Govardhan Pooja",
+    "date": "2026-11-09",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Bhaiya Duj",
+    "date": "2026-11-10",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Prabodhini Ekadashi",
+    "date": "2026-11-20",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Tulsi Vivah (Dwadashi Tithi)",
+    "date": "2026-11-21",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima / Nanak Jayanti",
+    "date": "2026-11-23",
+    "weekday": "Monday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-11-27",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Kaal Bhairav Ashtami",
+    "date": "2026-12-01",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Utpathi Ekadashi",
+    "date": "2026-12-04",
+    "weekday": "Friday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Amavasya",
+    "date": "2026-12-08",
+    "weekday": "Tuesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Geeta Jayanti",
+    "date": "2026-12-19",
+    "weekday": "Saturday",
+    "time_or_note": "Grouped with Moksha Ekadashi on poster - verify",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Mokshe Ekadashi",
+    "date": "2026-12-19",
+    "weekday": "Saturday",
+    "time_or_note": "Printed as 'Mokshe' - likely Moksha Ekadashi",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Purnima",
+    "date": "2026-12-23",
+    "weekday": "Wednesday",
+    "time_or_note": "Grouped with Shree Dutt Jayanti on poster - verify",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Shree Dutt Jayanti",
+    "date": "2026-12-23",
+    "weekday": "Wednesday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  },
+  {
+    "event": "Ganesh Chauth",
+    "date": "2026-12-26",
+    "weekday": "Saturday",
+    "time_or_note": "",
+    "mandir": "Shree Sanatan Mandir, 205 Angus Ave., W. San Bruno, CA 94066"
+  }
+]
