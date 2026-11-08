@@ -1,4 +1,6 @@
-# Sanatan Mandir — San Bruno website
+# Sanatan Mandir — San Bruno website (static / events version)
+
+> This is MukunthRobo's lightweight static build — a preview/backup and events-calendar version. The main website lives in `sanbrunotemple/sanatan-mandir-website` and is managed by the temple team; this repo does not replace it.
 
 Static site matching the 'Sanatan Mandir website design' mock (Claude artifact JAV7Jvx3EJLJFDgH7sLqiC).
 Hosted on GitHub Pages; every push to `main` updates the live site.
